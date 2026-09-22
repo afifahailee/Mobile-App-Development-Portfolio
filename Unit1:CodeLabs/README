@@ -1,0 +1,73 @@
+# Unit 1: Your First Android App
+
+This folder contains my work for **Unit 1: Your First Android App**, which forms part of my individual Android development portfolio.  
+The unit consists of three main pathways: **Introduction to Kotlin**, **Setup Android Studio**, and **Build a Basic Layout**.  
+The estimated duration for completing this unit is around 10 hours, providing the basic foundation for my Android development journey.
+
+---
+
+## Pathway 1: Introduction to Kotlin
+In this pathway, I practiced creating basic Kotlin programs that produce text output.  
+I learned the following:
+- Basic Kotlin syntax, including variables, data types, and functions.
+- How to use `println()` to print and display text in the console.
+- The role of Kotlin as an important programming language for modern Android development.
+
+**Outcome:**  
+This pathway improved my understanding of Kotlin fundamentals and prepared me to apply the language when working with Android SDK components.
+
+---
+
+## Pathway 2: Setup Android Studio
+In this pathway, I downloaded and configured **Android Studio**, the official IDE used for Android application development.  
+Key learning points:
+- How to install and configure Android Studio for development.
+- Understanding the Gradle build system and basic Android project structure.
+- Running a basic "Hello World" application using an Android emulator.
+
+**Outcome:**  
+I successfully developed my first Android project and became familiar with the process of building, running, and testing applications in Android Studio.
+
+---
+
+## Pathway 3: Build a Basic Layout
+In this pathway, I developed an Android application with a simple user interface containing text and images.  
+I explored:
+- XML layout files and how they are used to structure the user interface.
+- Using `TextView` for displaying text and `ImageView` for showing images.
+- Selecting layouts such as `LinearLayout` to arrange different UI components.
+
+**Outcome:**  
+I developed a simple application that combines text and images, showing my ability to create and organize basic Android user interfaces.
+
+---
+
+## Reflection
+Completing Unit 1 allowed me to:
+- Progress from understanding basic Kotlin concepts to applying them in Android Studio.
+- Understand how Kotlin programming and XML layouts work together in Android applications.
+- Build confidence in configuring the development environment and creating my first application.
+
+**Challenges faced:**
+- Setting up the emulator required some troubleshooting.
+- Understanding the structure and hierarchy of XML required practice.
+- Connecting Kotlin code with user interface components was initially challenging.
+
+**My choices:**
+- I selected a `LinearLayout` because it was simple to understand and implement.
+- I included a custom image to make the application more personalized.
+- I selected Kotlin as the programming language because it supports modern Android development practices.
+
+---
+
+## Contents of This Folder
+- **Badge.png** → Screenshot showing my achievement badge for Unit 1.
+- **Code/** → Kotlin project files from Android Studio, including source code, resources, and manifest.
+- **Reflection.md** → Documentation of my learning experience, challenges, and outcomes.
+
+---
+
+## Conclusion
+Unit 1 marks the beginning of my journey in Android application development.  
+It brings together Kotlin fundamentals, development environment setup, and basic user interface design.  
+This unit provided the foundation for learning more advanced concepts in later units, including activity management, form handling, data storage, and application lifecycle awareness.
