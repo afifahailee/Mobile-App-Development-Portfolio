@@ -1,1 +1,73 @@
 
+# Unit 2: Building App UI
+
+This folder contains my work for **Unit 2: Building App UI**, which forms part of my individual Android development portfolio.  
+The unit consists of three main pathways: **Kotlin Fundamentals**, **Add a Button to an App**, and **Interacting with UI and State**.  
+The estimated duration for completing this unit is around 21 hours, focusing on developing interactive applications using Kotlin.
+
+---
+
+## Pathway 1: Kotlin Fundamentals
+In this pathway, I improved my understanding of Kotlin programming by learning:
+- How to apply conditionals (`if`, `else`) to manage the flow of a program.
+- How to use function types and lambda expressions for more concise programming.
+- Object-oriented programming concepts, including classes, objects, and methods.
+
+**Outcome:**  
+I became more confident in developing complex Kotlin programs and learned how these programming concepts can be applied to Android application logic.
+
+---
+
+## Pathway 2: Add a Button to an App
+In this pathway, I learned how applications can respond to different user actions:
+- Understanding the basic principles of event handling.
+- Creating logic that is triggered when a user clicks a button.
+- Practicing the underlying logic by simulating button clicks using Kotlin.
+
+**Outcome:**  
+I developed a better understanding of how user interactions control application behavior. Even without using the Android Studio interface, I practiced button click simulations and learned how event listeners function.
+
+---
+
+## Pathway 3: Interacting with UI and State
+In this pathway, I developed the logic for a **Tip Calculator** application:
+- Receiving user input such as the bill amount and tip percentage.
+- Managing state to calculate and update different values.
+- Displaying calculated results, including the tip amount and total bill.
+
+**Outcome:**  
+I gained experience in state management and learned how applications update their interfaces according to user input. This pathway helped connect Kotlin programming logic with dynamic user interfaces.
+
+---
+
+## Reflection
+Completing Unit 2 helped me:
+- Improve my Kotlin programming skills through conditionals, lambdas, and classes.
+- Understand how applications react to user interactions such as button clicks.
+- Develop practical experience with state management through a tip calculator example.
+
+**Challenges faced:**
+- Understanding lambda expressions and function types required additional practice.
+- Practicing UI interactions without directly using Android Studio had some limitations.
+- Converting programming logic into interactive user interface behavior was a new experience.
+
+**My choices:**
+- I created Kotlin-based simulations for button interactions and state management to strengthen my programming logic.
+- I used simple examples, such as score evaluation and a tip calculator, to improve my understanding of the concepts.
+- I kept my code organized and readable by using clear comments and simple structures.
+
+---
+
+## Contents of This Folder
+- **Badge.png** → Screenshot showing my achievement badge for Unit 2.
+- **Code/** → Kotlin practice files:
+  - `KotlinFundamentals.kt` → Demonstrates conditionals, lambdas, and classes.
+  - `ButtonDemo.kt` → Demonstrates simulated button click functionality.
+  - `TipCalculator.kt` → Contains tip calculator logic and state handling.
+- **Reflection.md** → Documentation of my learning experience, challenges, and outcomes.
+
+---
+
+## Conclusion
+Unit 2 marks my progression from basic Kotlin programming toward developing interactive application concepts.  
+It combines programming fundamentals with user interaction and state management, preparing me for more advanced concepts in Unit 3 (Form Handling & Data Storage) and Unit 4 (Lifecycle Awareness).
